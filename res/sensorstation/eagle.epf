@@ -17,6 +17,7 @@ Type="Control Panel"
 Loc="963 161 1764 1056"
 State=2
 Number=0
+Number=1
 
 [Desktop]
 Screen="3840 1200"
