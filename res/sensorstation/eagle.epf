@@ -10,6 +10,7 @@ AutoSaveProject=1
 UsedLibrary="C:/EAGLE-7.1.0/lbr/battery.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/farnell.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/freescale.lbr"
+UsedLibrary="C:/EAGLE-7.1.1/lbr/freescale.lbr"
 
 [Win_1]
 Type="Control Panel"
